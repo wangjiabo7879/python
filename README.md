@@ -1,2 +1,2 @@
 # python
-To record the road of learining python language.
+To record the experience of learining python language.
